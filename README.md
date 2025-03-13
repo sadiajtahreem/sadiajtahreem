@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Sadia Tahreem! 👋  
+🚀 Aspiring Web Developer | Passionate about building responsive websites  
 
-<!--
-**sadiajtahreem/sadiajtahreem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 Learning Journey:
+- Completed YouTube courses on web development
+- Building real-world projects to strengthen skills
+- Currently Learning: JavaScript & React  
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools:
+- HTML, CSS, JavaScript  
+- Git & GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects:
+- [Portfolio Website](https://github.com/your-repo-link)  
+- [To-Do App](https://github.com/your-repo-link)  
+
+💡 _Follow my journey as I grow into a full-stack developer!_
